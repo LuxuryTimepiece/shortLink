@@ -16,7 +16,7 @@ export default function NotFound() {
         <CardHeader>
           <CardTitle className="text-2xl">Link Not Found</CardTitle>
           <CardDescription>
-            This short link doesn&apos;t exist or has been removed.
+            {`This short link doesn't exist or has been removed.`}
           </CardDescription>
         </CardHeader>
         <CardContent>
